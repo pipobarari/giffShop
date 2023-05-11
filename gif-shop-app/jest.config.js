@@ -10,6 +10,6 @@ module.exports = {
       "^@/(.*)$": "<rootDir>/src/$1"
     },
     setupFilesAfterEnv: [
-        "<rootDir>/setupTests.js"
+        "<rootDir>/setupTest.js"
      ],
   };
